@@ -34,7 +34,6 @@ Urban congestion and inefficient parking pricing lead to traffic delays, lost re
 
 ## Architecture Diagram
 
-```mermaid
 flowchart TD
 A[parking_stream.csv (simulated real-time feed)]
 A --> B[Pathway Streaming Ingest]
